@@ -1,5 +1,10 @@
 # SlowSampler
 
+略微修复了一个小问题
+
+源码没有任何问题，就是打包出来的文件千万不要写后缀的版本号，Camomile的一键生成脚本不认后缀，会报错如 SlowSampler-0.1 does not contain a valid pd patch
+
+
 [[中文简介]](README.md) [[English]](README_EN.md)
 
 [[视频演示]](https://www.bilibili.com/video/av456902268)
